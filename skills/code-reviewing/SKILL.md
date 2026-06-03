@@ -36,6 +36,7 @@ allowed-tools:
 - 文件位置：file_path:line_number
 - 修改建议：提供具体的代码修正方案或者解决策略
   
+
 若未发现任何问题，请明确回复"通过审查"，并简述已检查的主要方面。
 
 注：详细的等级判断标准请参见`reference/security-level-guide.md`。
